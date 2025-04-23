@@ -1,3 +1,5 @@
+MIT LICENSE
+
 ## ✅ Excel Comparison Tool
 
 This script compares **5 specific columns** between two Excel files:
